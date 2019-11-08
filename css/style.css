@@ -1,6 +1,3 @@
-h1 {
-    color: chartreuse;
-}
 
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -11,5 +8,36 @@ body {
 }
 
 header {
+    background: #333333;
+}
+
+h1 {
+    font: #eee;
+    font-size: 28px;
+
+}
+h2 {
+    font-size: 24px;
+    width: 1024px;
+    margin: 0 auto;
+}
+
+#main-bio {
+    float: left;
+    width: 70%;
+}
+#bio-image {
+    float: left;
+    width: 200px;
+    margin: 0px 10px;
+}
+#contact-info {
+    float: left;
+    width: 30%;
+    height: 1.5em;
+
+}
+#contact-info a {
+    color: #d21034;
     
 }
