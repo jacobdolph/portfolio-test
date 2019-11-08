@@ -12,7 +12,7 @@ header {
 }
 
 h1 {
-    font: #eee;
+    color: #eee;
     font-size: 28px;
 
 }
@@ -39,5 +39,5 @@ h2 {
 }
 #contact-info a {
     color: #d21034;
-    
+
 }
