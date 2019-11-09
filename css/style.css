@@ -9,12 +9,13 @@ body {
 
 header {
     background: #333333;
+    
 }
 
 h1 {
     color: #eee;
     font-size: 28px;
-
+    margin: 0px 230px;
 }
 h2 {
     font-size: 24px;
@@ -22,6 +23,7 @@ h2 {
     
 }
 .container {
+    width: 1040px;
     margin: 0 auto;
 }
 
@@ -32,7 +34,7 @@ h2 {
 #bio-image {
     float: left;
     width: 200px;
-    margin: 0px 10px;
+    margin: 0px 20px 0px 0px;
 }
 #contact-info {
     float: left;
